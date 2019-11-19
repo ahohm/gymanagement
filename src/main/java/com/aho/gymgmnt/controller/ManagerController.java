@@ -1,7 +1,7 @@
 package com.aho.gymgmnt.controller;
 
-import com.aho.gymanagement.entity.Manager;
-import com.aho.gymanagement.service.ManagerService;
+import com.aho.gymgmnt.entity.Manager;
+import com.aho.gymgmnt.service.ManagerService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

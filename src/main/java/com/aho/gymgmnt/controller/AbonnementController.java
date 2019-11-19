@@ -1,7 +1,7 @@
 package com.aho.gymgmnt.controller;
 
-import com.aho.gymanagement.entity.Abonnement;
-import com.aho.gymanagement.service.AbonnementService;
+import com.aho.gymgmnt.entity.Abonnement;
+import com.aho.gymgmnt.service.AbonnementService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.http.HttpStatus;
