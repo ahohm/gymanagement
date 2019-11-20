@@ -19,6 +19,7 @@ public class Abonne {
 
     private String firsName;
     private String lastName;
+    private String userName;
 
     private String cin;
     private String photo;
